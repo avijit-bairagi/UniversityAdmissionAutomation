@@ -1,0 +1,7 @@
+Total student : 2
+
+-----Academic Building-----
+Floor : 4th
+Room No : 407A
+Student No : 2
+Registration id : 2017000001 2017000014 

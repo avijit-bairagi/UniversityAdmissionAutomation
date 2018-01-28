@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Admission:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Admission_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Admission/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Admission" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="commons-codec-1.10" />
+          <element id="library" level="project" name="itextpdf-5.3.4" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,19 @@
+Total student : 9
+
+-----Academic Building-----
+Floor : 4th
+Room No : 407A
+Student No : 2
+Registration id : 2017000000 2017000002 
+
+-----Administrative Building-----
+Floor : 4th
+Room No : 408
+Student No : 3
+Registration id : 2017000003 2017000005 2017000012 
+
+-----Garazze-----
+Floor : Ground
+Room No : N/A
+Students No : 4
+Registration id : 2017000013 2017000017 2017000018 2017000100 
